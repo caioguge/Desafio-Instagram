@@ -29,7 +29,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ```bash
 
 # Clone este repositório
-$ git clone git@github.com:caioguge/Desafio-Instagram.git
+$ git@github.com:caioguge/Desafio-Instagram.git
 
 # Vá para a raiz do projeto e execute o seguinte comando no console para obter as dependências necessárias
 $ flutter pub get
