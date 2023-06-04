@@ -15,7 +15,7 @@ The Instagram Challenge - Was a challenge proposed by the teacher **Rodrigo Rahm
 
 The project was developed within the Flutter Academy.
 <br>
-https://instituto.academiadoflutter.com.br/area/vitrine
+https://instituto.academiadoflutter.com.br/
 
 ---
 
