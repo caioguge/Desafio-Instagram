@@ -1,5 +1,5 @@
 <h1 align="center"> 
-	Desafio Instagram - Concluído 🚀
+	Instagram Challenge - Completed 🚀
 </h1>
 
 <p align="center">
@@ -14,6 +14,7 @@
 The Instagram Challenge - Was a challenge proposed by the teacher **Rodrigo Rahman**. This version of the application is simplified compared to the real version of the official application. This challenge served to practice what we learned about some widgets, layout construction, and programming best practices.
 
 The project was developed within the Flutter Academy.
+<br>
 https://instituto.academiadoflutter.com.br/area/vitrine
 
 ---
