@@ -3,56 +3,56 @@
 </h1>
 
 <p align="center">
- <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-como-executar-o-projeto">Como executar</a> • 
- <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-licença">Licença</a>
+ <a href="#-about-the-project">About the project</a> •
+ <a href="#-how-to-run-the-project">How to run the project</a> • 
+ <a href="#-technologies">Technologies</a> • 
+ <a href="#-license">License</a>
 </p>
 
-## 💻 Sobre o projeto
+## 💻 About the project
 
-O Desafio Instagram - Foi um desafio proposto pelo professor **Rodrigo Rahman**. Essa versão do aplicativo é simplificada comparada com a versão real do aplicativo oficial. Este desafio serviu para praticar o que aprendemos sobre alguns widgets, a construção de layouts e boas práticas de programação.
+The Instagram Challenge - Was a challenge proposed by the teacher **Rodrigo Rahman**. This version of the application is simplified compared to the real version of the official application. This challenge served to practice what we learned about some widgets, layout construction, and programming best practices.
 
-
-O Projeto foi desenvolvido dentro da **Academia do Flutter**.
+The project was developed within the Flutter Academy.
+https://instituto.academiadoflutter.com.br/area/vitrine
 
 ---
 
-## 🚀 Como executar o projeto
+## 🚀 How to run the project
 
-### Pré-requisitos
+### Pre requirements
 
-Antes de começar, você vai precisar ter instalado em sua máquina a ferramenta do Git:
-[Instalar Git](https://git-scm.com). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
+Before you start, you will need to have Git installed on your machine:
+[Install Git](https://git-scm.com). 
+It is also good to have an editor to work with the code like [VSCode](https://code.visualstudio.com/).
 
 ```bash
 
-# Clone este repositório
+# Clone this repository
 $ https://github.com/caioguge/Desafio-Instagram.git
 
-# Vá para a raiz do projeto e execute o seguinte comando no console para obter as dependências necessárias
+# o to the project root and run the following command in the console to get the necessary dependencies
 $ flutter pub get
 
-# Execute a aplicação com o comando
+# Run the application with the command
 $ flutter run
 
 ```
 ---
 
-## 🛠 Tecnologias
+## 🛠 Technologies
 
-As seguintes ferramentas foram usadas na construção do projeto:
+The following tools were used in the construction of the project:
 
 -   **[Flutter](https://docs.flutter.dev/get-started/install)**
 -   **[Dart](https://dart.dev/)**
 
 ---
 
-## 📝 Licença
+## 📝 License
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
+This project is under the [MIT](./LICENSE).
 
-Feito por Caio Gugê 👋 [Entre em contato!](https://www.linkedin.com/in/caioguge/)
+Made by Caio Gugê 👋 [Get in touch!](https://www.linkedin.com/in/caioguge/)
 
 ---
