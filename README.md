@@ -32,7 +32,7 @@ It is also good to have an editor to work with the code like [VSCode](https://co
 # Clone this repository
 $ https://github.com/caioguge/Desafio-Instagram.git
 
-# o to the project root and run the following command in the console to get the necessary dependencies
+# Go to the project root and run the following command in the console to get the necessary dependencies
 $ flutter pub get
 
 # Run the application with the command
